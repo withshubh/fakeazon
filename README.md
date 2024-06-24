@@ -85,12 +85,8 @@ The payment session ID is used to open the Cashfree checkout page. This is done 
 
 ## Contributing
 
-Contributions are welcome! Please read the CONTRIBUTING.md file for details on how to get started.
+Contributions are welcome! Please read the [CONTRIBUTING.md](https://github.com/withshubh/fakeazon/blob/main/CONTRIBUTING.md) file for details on how to get started.
 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-#### Note
-
-This project is built to demonstrate the integration of Cashfree Payments' payment gateway in a Django application. It is not recommended for production use.
