@@ -10,7 +10,7 @@ We welcome contributions to enhance this project. Here are some guidelines to ge
 
    ```sh
    git clone https://github.com/yourusername/fakeazon.git
-   cd django-ecommerce-cashfree
+   cd fakeazon
    ```
 
 3. **Create a branch** for your changes:

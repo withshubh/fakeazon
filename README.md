@@ -23,7 +23,7 @@ This project demonstrates how to integrate Cashfree Payments' payment gateway in
 
    ```sh
    git clone https://github.com/withshubh/fakeazon.git
-   cd django-ecommerce-cashfree
+   cd fakeazon
    ```
 
 2. **Create and activate a virtual environment**:
