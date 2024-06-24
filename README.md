@@ -2,6 +2,11 @@
 
 This project demonstrates how to integrate Cashfree Payments' payment gateway into a Django e-commerce application. It is intended for educational purposes and is not recommended for production use.
 
+![demo1 (1)](https://github.com/withshubh/fakeazon/assets/25361949/60552227-a9d6-480d-9420-4085bc0c58f0)
+
+![demo2](https://github.com/withshubh/fakeazon/assets/25361949/94e7b55d-321b-4dfa-b877-885efb535b67)
+
+
 ## Features
 
 - **Landing Page**: Lists products fetched from the Fake Store API.
